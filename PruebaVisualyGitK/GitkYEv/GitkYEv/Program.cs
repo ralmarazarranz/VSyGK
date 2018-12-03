@@ -11,6 +11,8 @@ namespace GitkYEv
                 Console.WriteLine(i);
             }
             Console.WriteLine("Julio");
+            Console.WriteLine("Rama Ruben");
+            Console.WriteLine("Cambio1");
         }
     }
 }
