@@ -1,0 +1,11 @@
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/bin/Debug/netcoreapp2.0/GitkYEv.deps.json
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/bin/Debug/netcoreapp2.0/GitkYEv.runtimeconfig.json
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/bin/Debug/netcoreapp2.0/GitkYEv.runtimeconfig.dev.json
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/bin/Debug/netcoreapp2.0/GitkYEv.dll
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/bin/Debug/netcoreapp2.0/GitkYEv.pdb
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.csprojAssemblyReference.cache
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.csproj.CoreCompileInputs.cache
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.AssemblyInfoInputs.cache
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.AssemblyInfo.cs
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.dll
+/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj/Debug/netcoreapp2.0/GitkYEv.pdb
