@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/GitkYEv.csproj",
+      "projectUniqueName": "/Users/rubenalmaraz/Proyectos/VSyGK/VSyGK/PruebaVisualyGitK/GitkYEv/GitkYEv/GitkYEv.csproj",
       "projectName": "GitkYEv",
-      "projectPath": "/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/GitkYEv.csproj",
+      "projectPath": "/Users/rubenalmaraz/Proyectos/VSyGK/VSyGK/PruebaVisualyGitK/GitkYEv/GitkYEv/GitkYEv.csproj",
       "packagesPath": "/Users/rubenalmaraz/.nuget/packages/",
-      "outputPath": "/Users/rubenalmaraz/Proyectos/PruebaVisualyGitK/GitkYEv/GitkYEv/obj",
+      "outputPath": "/Users/rubenalmaraz/Proyectos/VSyGK/VSyGK/PruebaVisualyGitK/GitkYEv/GitkYEv/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
